@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="VegCan" version="3.0" targetId="34eb9e3d03284a268596987df94390d0" sideLength="4.375000" topDiameter="3.187500" bottomDiameter="3.187500" sideImage="VegCan.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
